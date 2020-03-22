@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+}
+
+.listbox{
+    width:60%;
+}
+
+.formbox{
+    width: 40%;
+}
+/* 
+body{
+    background: url("https://cdn.stocksnap.io/img-thumbs/960w/YQWGZCT2BY.jpg") no-repeat center ; 
+} */
